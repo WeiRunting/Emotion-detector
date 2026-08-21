@@ -56,6 +56,6 @@ pip install flask requests
 
 3. Start the Flask server:
 ```bash
-pip install flask requests
+python server.py
 ```
 
